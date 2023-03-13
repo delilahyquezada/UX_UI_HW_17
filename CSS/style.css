@@ -3,6 +3,8 @@
 .inline-block {
 display: inline-block;
 vertical-align: top;
+padding: 2%;
+
 
 }
 
@@ -50,3 +52,15 @@ padding: 1%;
 
 }
 
+body {  
+    font-size: 14px;
+background-image: url("/images/mainpichome.png");
+background-position: absolute;
+width: 1440px;
+height: 1020px;
+left: 0px;
+top: 84px;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
