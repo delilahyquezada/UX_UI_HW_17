@@ -57,7 +57,7 @@ font-family: 'Plus Jakarta Sans';
 
 body {  
 font-size: 14px;
-background-image: url("/images/mainpichome.png");
+background: url("images/mainpichome.png");
 background-position: absolute;
 width: 1440px;
 height: 1020px;
